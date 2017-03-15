@@ -1,0 +1,1 @@
+# Web-Ext-Window-Info
