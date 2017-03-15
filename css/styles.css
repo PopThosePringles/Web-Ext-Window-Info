@@ -1,0 +1,15 @@
+.pd-win-info {
+
+	position: fixed;
+	top: 50px;
+	left: 15px;
+	width: auto;
+	padding: 8px;
+	background-color: white;
+	cursor: move;
+	user-select: none;
+	border: 1px solid #000;
+	border-radius: 4px;
+	z-index: 1003;
+
+}
